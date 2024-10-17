@@ -1,0 +1,186 @@
+ ·Sembol: Li
+ 
+ ·Atom Numarası: 3
+
+ ·Atom Ağırlığı: 6.94 u
+
+ ·Periyot: 2
+
+ ·Grup: 1A (Alkali Metaller)
+
+ ·Elektron Dizilimi: 1s² 2s¹
+
+ ·İyon Yükü: Genellikle +1 oksidasyon durumu gösterir.
+
+ ·Yoğunluk: 0.534 g/cm³ (en hafif metal)
+ 
+ 
+ 
+ 
+ 1.Lityum-6 (⁶Li):
+
+ ·Doğal lityumun yaklaşık %7.5'ini oluşturur.
+
+ ·Nükleer reaksiyonlarda kullanılır.
+
+ 2.Lityum-7 (⁷Li):
+
+ ·En yaygın izotop olup doğal lityumun yaklaşık %92.5'ini 
+  oluşturur.
+
+ ·Lityum-7, nükleer reaktörlerde nötron moderatörü olarak 
+  kullanılır.
+  
+  
+  
+  
+ ·Durum: Oda sıcaklığında gümüşi renkte, yumuşak ve 
+  parlak bir metaldir.
+
+ ·Erime Noktası: 180.54°C (456.15 K)
+
+ ·Kaynama Noktası: 1342°C (1615 K)
+
+ ·Yoğunluk: 0.534 g/cm³ (en hafif metal)
+
+ ·Elektrik İletkenliği: İyi bir iletkendir.
+
+ ·Esneklik: Lityum yumuşak bir metaldir ve kolayca 
+  bıçakla kesilebilir.
+
+ ·Reaktivite: Diğer alkali metaller gibi, suyla reaksiyona
+  girerek hidrojen gazı ve lityum hidroksit (LiOH) üretir. 
+  Havadaki oksijenle hızla oksitlenir.
+  
+  
+  
+  
+ ·Alkali Metal Özelliği: Diğer alkali metaller gibi lityum
+  da tek bir valans elektronu içerir ve bu yüzden oldukça 
+  reaktiftir.
+
+ ·Yükseltgenme Durumu: Genellikle +1.
+
+ ·Su ile Reaksiyon: Su ile temas ettiğinde şiddetli bir 
+  reaksiyon verir ve ısı açığa çıkararak lityum hidroksit
+  (LiOH) ve hidrojen (H₂) gazı oluşturur.
+
+ ·2Li + 2H₂O → 2LiOH + H₂
+
+ ·Alev Testi: Lityum tuzları alev testinde parlak kırmızı
+  bir renk verir.
+
+ ·Diğer Reaksiyonlar: Havadaki oksijenle hızla oksitlenir 
+  ve lityum oksit (Li₂O) oluşturur.
+  
+  
+  
+  
+ ·İnsan Vücudundaki Rolü: Lityum, insan vücudunda eser 
+  miktarda bulunur. Doğal olarak bir biyolojik rolü olmasa da
+  psikiyatrik hastalıkların tedavisinde kullanılır.
+
+ ·Tıbbi Kullanım: Lityum tuzları, bipolar bozukluğun tedavisinde 
+  yaygın olarak kullanılır. Lityum karbonat, ruh halini stabilize 
+  eden etkileri ile bilinir. Sinir hücreleri üzerinde etkili 
+  olarak nörolojik ve psikiyatrik rahatsızlıkların tedavisinde 
+  rol oynar.
+  
+  
+  
+  
+ ·Lityum İyon Piller: Lityum, özellikle lityum-iyon pillerin 
+  yapısında kullanılır. Bu piller cep telefonları, dizüstü 
+  bilgisayarlar, elektrikli araçlar gibi pek çok taşınabilir 
+  elektronik cihazda tercih edilir.
+
+ ·Havacılık ve Uzay Sanayii: Lityum, hafifliği ve yüksek enerji 
+  kapasitesi nedeniyle havacılık ve uzay sanayisinde kullanılır.
+
+ ·Alaşımlar: Lityum, alüminyum gibi metallerle hafif ve güçlü 
+  alaşımlar oluşturur. Bu alaşımlar uçak, otomotiv ve bisiklet 
+  gibi hafif ve güçlü yapıların üretiminde kullanılır.
+
+ ·Seramik ve Cam Üretimi: Lityum bileşikleri, seramik ve cam 
+  üretiminde erime sıcaklığını düşürmek için kullanılır.
+
+ ·Yağlayıcılar: Lityum stearat, yüksek sıcaklıklara dayanıklı 
+  yağlayıcıların üretiminde kullanılır.
+
+ ·Nükleer Reaktörler: Lityum-7, nükleer reaktörlerde nötron 
+  soğurucu olarak kullanılır.
+
+ ·İlaç Endüstrisi: Lityum karbonat, bipolar bozukluk ve 
+  depresyon tedavisinde kullanılan bir ilaçtır.
+  
+  
+  
+  
+ ·Keşfeden: Johan August Arfvedson (1817)
+ 
+ ·Arfvedson, lityumu ilk kez spodumen ve petalit minerallerini 
+  incelerken keşfetti. Ancak lityum saf olarak izole edilmedi; 
+  1821'de William Thomas Brande ve Sir Humphry Davy tarafından 
+  elektroliz yöntemiyle saf lityum elde edildi. Adını "taş" 
+  anlamına gelen Yunanca "lithos" kelimesinden alır, çünkü 
+  lityum, diğer alkali metallerden farklı olarak, minerallerde 
+  bulunur.
+  
+  
+  
+  
+ ·Yerkabuğundaki Bulunuşu: Lityum, yerkabuğunda bol bulunan bir 
+  element değildir, ancak çeşitli minerallerde bulunur. Spodumen, 
+  lepidolit ve petalit lityum içeren başlıca minerallerdir.
+ 
+ ·Tuz Gölleri: Lityum ayrıca bazı tuz göllerinde ve tuzlu su
+  kaynaklarında (brine) çözünmüş halde bulunur. Özellikle Şili,
+  Bolivya ve Arjantin, dünyanın önde gelen lityum yataklarına 
+  sahiptir.
+ 
+ ·Yeraltı Suyu: Lityum, tuzlu yeraltı suyu kaynaklarında bulunur 
+  ve bu kaynaklardan lityum elde etmek için madencilik yapılır.
+  
+  
+  
+  
+ ·Elektrikli Araçlar: Elektrikli araçların yaygınlaşmasıyla 
+  birlikte lityum talebi hızla artmaktadır. Lityum-iyon piller
+  bu araçların enerji depolama sistemleri için hayati öneme
+  sahiptir.
+ 
+ ·Yenilenebilir Enerji: Lityum-iyon piller, enerji depolama
+  sistemlerinde (rüzgar, güneş gibi yenilenebilir enerji kaynakları)
+  kullanıldığından, temiz enerji sistemlerinin bir parçası olarak
+  önemli bir rol oynayacaktır.
+ 
+ ·Füzyon Reaktörleri: Lityum, gelecekte nükleer füzyon reaktörlerinde
+  trityum üretimi için kullanılabilir.
+  
+  
+  
+
+ ·Reaktivite: Lityum oldukça reaktiftir ve su ile temas ettiğinde 
+  hidrojen gazı açığa çıkararak yanıcı bir reaksiyon oluşturur. 
+  Bu nedenle lityumun su ile temasından kaçınılmalıdır.
+ 
+ ·Yangın Riski: Lityum-iyon piller, aşırı ısınma veya kısa devre 
+  durumunda yangın tehlikesi oluşturabilir. Bu nedenle lityum piller 
+  güvenlik açısından dikkatle kullanılmalıdır.
+
+ ·Toksik Etkiler: Lityum tuzları tıbbi dozlarda kullanılırken 
+  güvenlidir, ancak yüksek dozlarda toksik olabilir ve böbrek 
+  fonksiyonlarına zarar verebilir. Aşırı doz alımı ciddi sağlık 
+  problemlerine yol açabilir.
+  
+  
+  NOT:Lityum, hafifliği, yüksek enerji depolama kapasitesi ve 
+  reaktivitesi ile dikkat çeken bir elementtir. Günümüz 
+  teknolojisinin temel taşlarından biri haline gelen 
+  lityum-iyon piller, taşınabilir elektronik cihazlardan 
+  elektrikli araçlara kadar geniş bir kullanım alanı bulmaktadır.
+  Ayrıca biyolojik tedavi alanında da önemli bir yere sahip 
+  olan lityum, psikiyatrik hastalıkların tedavisinde etkili bir rol 
+  oynamaktadır. Gelecekte enerji depolama teknolojilerinde ve temiz
+  enerji çözümlerinde lityumun önemi daha da artacak gibi 
+  görünmektedir.

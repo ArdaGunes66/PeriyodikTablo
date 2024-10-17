@@ -1,0 +1,161 @@
+ ·Sembol: He
+ 
+ ·Atom Numarası: 2
+ 
+ ·Atom Ağırlığı: 4.0026 u
+ 
+ ·Periyot: 1
+ 
+ ·Grup: 18A (Asil Gazlar)
+ 
+ ·Elektron Dizilimi: 1s²
+ 
+ ·İyon Yükü: Helyum iyon oluşturmaz çünkü kimyasal
+  reaksiyonlara girmez.
+  
+  
+  
+  
+ ·Helyum-4 (⁴He): Doğada en bol bulunan izotoptur ve 
+  helyumun %99.99998'ini oluşturur. Çekirdeğinde iki
+  proton ve iki nötron bulunur.
+
+ ·Helyum-3 (³He): Nadir bir izotop olup, iki proton ve 
+  bir nötron içerir. Füzyon reaksiyonlarında kullanılma 
+  potansiyeli vardır.
+  
+  
+  
+  
+ ·Durum: Oda sıcaklığında renksiz, kokusuz, tatsız bir
+  gazdır.
+
+ ·Yoğunluk: 0.1786 g/L 
+  (standart koşullarda, yani 0°C ve 1 atm basınç)
+
+ ·Kaynama Noktası: -268.93°C (4.2 K) 
+  (tüm elementler arasında en düşük kaynama noktası)
+
+ ·Erime Noktası: -272.2°C (yaklaşık 1 K) (tüm elementler 
+  arasında en düşük erime noktası)
+
+ ·Faz Durumu: Oda sıcaklığında gaz, ancak mutlak sıfıra 
+  yakın sıcaklıklarda sıvı halde bulunabilir.
+ 
+ ·Çözünürlük: Suda çok az çözünür.
+
+ ·İki Atomlu Değildir: Diğer bazı gazlardan farklı olarak 
+  helyum doğada tek atomlu (monoatomik) olarak bulunur.
+  
+  
+  
+  
+ ·Reaktif Olmayan Bir Element: Helyum, soy gazlar 
+  grubunda olduğu için kimyasal olarak en kararlı 
+  elementlerden biridir. Valans kabuğu (1s²) tamamen dolu 
+  olduğu için başka elementlerle reaksiyona girmez.
+
+ ·İyonik Durum: Helyum, bileşik oluşturmaz ve iyon oluşturmaz.
+ 
+ ·Yanıcı Değildir: Helyum, oksijenle veya diğer gazlarla 
+  tepkimeye girmez, bu nedenle tamamen yanmaz.
+  
+  
+  
+  
+ ·Toksik Değildir: Helyum biyolojik olarak zararsızdır ve insan 
+  vücudu üzerinde herhangi bir kimyasal etkisi yoktur.
+
+ ·Solunum Gazı: Derin deniz dalgıçları tarafından oksijenle 
+  karıştırılarak heliox adı verilen karışım şeklinde kullanılır. 
+  Bu karışım, yüksek basınç altında azot narkozunu önlemek için 
+  azotun yerini alır.
+ 
+ ·Sağlık Uygulamaları: Bazen astım krizlerinde hava yolu direncini 
+  azaltmak için helyum-oksijen karışımı solutulabilir.
+  
+  
+  
+  
+ ·Balonlar ve Zeplinler: Helyum, hafif bir gaz olduğu ve yanıcı 
+  olmadığı için helyumla doldurulan balonlar ve zeplinler güvenlidir. 
+  Helyum havadan 7 kat daha hafiftir.
+ 
+ ·Soğutma: Helyum sıvı halde oldukça düşük sıcaklıklarda 
+  bulunabilir, bu yüzden manyetik rezonans görüntüleme (MR) 
+  cihazlarında ve diğer kriyojenik sistemlerde soğutucu olarak 
+  kullanılır.
+ 
+ ·Yarı İletken Üretimi: Helyum, nötr ve inert yapısı nedeniyle
+  hassas üretim süreçlerinde temizleme ve koruyucu gaz olarak
+  kullanılır.
+
+ ·Derin Deniz Dalgıçlığı: Yüksek basınç altında solunan hava,
+  azot narkozu yapabileceği için helyum, azotun yerini almak üzere
+  oksijenle karıştırılır (heliox).
+
+ ·Lazer Teknolojisi: Helyum-neon lazerlerinde kullanılır.
+
+ ·Süper Akışkanlık: Sıvı helyumun bazı izotopları süperakışkan
+  özellik gösterir, bu da çok düşük sıcaklıklarda sürtünmesiz akış
+  anlamına gelir.
+  
+  
+  
+  
+ ·Keşfedenler: Pierre Janssen ve Norman Lockyer (1868)
+ 
+ ·Helyum, ilk kez 1868'de güneş tutulması sırasında güneşin tayfında
+  tespit edildi. Adını güneşten (Yunanca "helios" = "güneş") alır. 
+  Yeryüzünde helyum 1895 yılında William Ramsay tarafından 
+  keşfedildi.
+  
+  
+  
+  
+ ·Evrendeki En Bol İkinci Element: Hidrojenden sonra evrende en bol 
+  bulunan element helyumdur. Yıldızlarda nükleer füzyon sonucunda 
+  helyum atomları oluşur.
+ 
+ ·Dünya Atmosferinde Çok Az: Helyum Dünya'nın atmosferinde çok
+  düşük oranda bulunur (%0.0005), çünkü hafif olduğu için 
+  atmosferden uzaya kaçar.
+ 
+ ·Doğal Gaz Kaynakları: Helyum, genellikle doğalgaz yataklarında 
+  bulunur. Bu yataklardaki helyum, radyoaktif elementlerin 
+  bozunması sonucu oluşur.
+  
+  
+  
+  
+ ·Nükleer Füzyon Reaktörleri: Helyum, temiz enerji üretiminde
+  nükleer füzyon reaktörleri için önemli bir yan ürün olabilir.
+ 
+ ·Derin Uzay Yolculukları: Helyum-3 izotopunun, gelecekte nükleer 
+  füzyon için güvenli ve verimli bir yakıt kaynağı olarak 
+  kullanılması planlanmaktadır. Helyum-3 Dünya'da nadir 
+  bulunurken, Ay'da ve diğer gök cisimlerinde daha fazla miktarda 
+  bulunduğu düşünülmektedir.
+  
+  
+  
+  
+ ·Boğulma Riski: Helyum toksik olmamakla birlikte, saf halde uzun
+  süre solunduğunda oksijen eksikliğinden dolayı boğulma riski
+  yaratabilir.
+ 
+ ·Sıvı Helyum Yanıkları: Sıvı helyum aşırı derecede soğuktur ve 
+  doğrudan temas halinde ciddi soğuk yanıklarına yol açabilir.
+  
+  
+  NOT:Helyum, hem bilimsel hem de endüstriyel uygulamaları
+  açısından büyük önem taşır. Özellikle yüksek teknoloji 
+  uygulamaları, kriyojenik süreçler ve temiz enerji kaynakları
+  için gelecekteki potansiyeli ile öne çıkmaktadır. Ayrıca 
+  yanıcı olmaması, hafifliği ve reaktif olmaması sayesinde helyum 
+  güvenli bir elementtir.Helyum, hem bilimsel hem de endüstriyel
+  uygulamaları açısından büyük önem taşır. Özellikle yüksek 
+  teknoloji uygulamaları, kriyojenik süreçler ve temiz enerji 
+  kaynakları için gelecekteki potansiyeli ile öne çıkmaktadır.
+  Ayrıca yanıcı olmaması,hafifliği ve reaktif olmaması sayesinde
+  helyum güvenli bir elementtir.

@@ -1,0 +1,192 @@
+ ·Sembol: B
+
+ ·Atom Numarası: 5
+
+ ·Atom Ağırlığı: 10.81 u
+
+ ·Periyot: 2
+
+ ·Grup: 13 (3A grubu)
+
+ ·Elektron Dizilimi: 1s² 2s² 2p¹
+
+ ·Yükseltgenme Durumu: Genellikle +3 oksidasyon durumunda 
+  bulunur.
+
+ ·Yoğunluk: 2.34 g/cm³ (amorf halde)
+
+
+
+
+ 1.Bor-10 (¹⁰B):
+
+ ·Doğada borun yaklaşık %20'sini oluşturur.
+
+ ·Nükleer reaktörlerde nötron soğurucu olarak 
+  kullanılır.
+
+ 2.Bor-11 (¹¹B):
+ 
+ ·Doğada borun yaklaşık %80'ini oluşturur.
+ 
+ ·Daha stabildir ve nükleer füzyon araştırmalarında 
+  kullanılır.
+
+
+
+
+ ·Durum: Oda sıcaklığında siyahımsı-gri bir kristal
+  yapıya sahip katı bir elementtir.
+ 
+ ·Erime Noktası: 2076°C (2349 K)
+ 
+ ·Kaynama Noktası: 3927°C (4200 K)
+ 
+ ·Yoğunluk: 2.34 g/cm³ (amorf hali); kristal hali 
+  daha yoğundur.
+ 
+ ·Sertlik: Bor, son derece serttir ve Mohs sertlik
+  skalasında 9.5'e yakın bir değere sahiptir.
+ 
+ ·İletkenlik: Elektriksel iletkenliği düşüktür, 
+  ancak yüksek sıcaklıklarda iletkenliği artar.
+
+
+
+
+ ·Amfoterik Özellik: Bor, hem asitlerle hem de 
+  bazlarla tepkime verebilir. Bu özelliği, borun 
+  yarı metal karakterinden kaynaklanır.
+
+ ·Oksitlenme: Bor, yüksek sıcaklıklarda oksijenle 
+  tepkimeye girer ve bor oksit (B₂O₃) oluşturur.
+
+ ·Su ile Reaksiyon: Oda sıcaklığında suyla reaksiyon 
+  vermez, ancak yüksek sıcaklıklarda su buharı ile 
+  tepkimeye girerek bor oksit ve hidrojen gazı oluşturur.
+
+ ·Alev Testi: Bor bileşikleri alev testinde yeşil renkte
+  bir alev verir.
+  
+  
+  
+  
+ ·İnsan Sağlığı: Bor, insan vücudunda eser miktarda 
+  bulunur ve sağlıklı kemik gelişimi ve hücre fonksiyonları
+  için önemlidir. Ancak yüksek dozlarda bor, toksik etkiler
+  gösterebilir.
+ 
+ ·Bitkilerdeki Rolü: Bor, bitkiler için hayati önem taşır 
+  ve büyüme süreçlerinde önemli bir mikro elementtir. Bitki 
+  hücre duvarlarının gelişiminde bor gereklidir.
+ 
+ ·Tıbbi Kullanım: Borik asit, antiseptik özellikleri 
+  nedeniyle tıbbi ürünlerde ve göz damlalarında kullanılır. 
+  Ayrıca kemik sağlığını destekleyici etkileri üzerine 
+  araştırmalar da mevcuttur.
+  
+  
+  
+  
+ ·Cam ve Seramik Üretimi: Bor oksit (B₂O₃), cam ve seramik 
+  üretiminde kullanılır. Özellikle ısıya dayanıklı 
+  borosilikat cam (Pyrex) yapımında kullanılır.
+ 
+ ·Nükleer Sanayi: Bor-10 izotopu, nükleer reaktörlerde 
+  nötronları soğurucu olarak kullanılır. Bu sayede reaktör 
+  kontrolü ve güvenliği sağlanır.
+ 
+ ·Alaşımlar: Bor, magnezyum, alüminyum ve çelik alaşımlarına 
+  eklenerek malzemelerin sertliğini ve ısıya dayanıklılığını 
+  artırır.
+
+ ·Kimyasallar: Borik asit ve sodyum borat (boraks), 
+  temizleyici ve dezenfektan olarak yaygın şekilde
+  kullanılır.
+ 
+ ·Neodimyum Mıknatıslar: Neodimyum-bor-demir (Nd-Fe-B) 
+  mıknatısları, çok güçlü mıknatıslar olarak elektronik 
+  cihazlarda, motorlarda ve hoparlörlerde kullanılır.
+ 
+ ·Fiber Optik Teknoloji: Bor, fiber optik kablolarda 
+  kullanılarak iletişim ağlarında veri iletimini hızlandırır.
+
+ ·Tarım: Bor, tarımda gübre olarak kullanılır ve özellikle
+  toprakta düşük seviyelerde bulunan yerlerde bitkilerin 
+  sağlıklı büyümesi için gereklidir.
+  
+  
+  
+  
+ ·Keşfeden: Joseph-Louis Gay-Lussac ve Louis-Jacques Thénard 
+  (1808), bağımsız olarak Humphry Davy de aynı yıl boru 
+  keşfetmiştir.
+ 
+ ·Bor, 1808 yılında Joseph-Louis Gay-Lussac ve Louis-Jacques 
+  Thénard tarafından ilk kez izole edilmiştir. Humphry Davy de 
+  aynı dönemde boru elektroliz yöntemiyle keşfetmiştir. 
+  Elementin adı, Arapça "buraq" kelimesinden gelir; bu kelime,
+  bor bileşikleri için kullanılan eski bir terimdir.
+  
+  
+  
+  
+ ·Yerkabuğundaki Bulunuşu: Bor, yerkabuğunda nadir bulunan 
+  bir elementtir ve genellikle bileşikler halinde bulunur. 
+  Doğada saf bor nadiren bulunur.
+ 
+ ·Başlıca Mineralleri: Bor doğada boraks (Na₂B₄O₇.10H₂O), 
+  kernit ve uleksit gibi minerallerde bulunur. Bu 
+  minerallerin büyük rezervleri ABD (Kaliforniya), Türkiye 
+  (Bandırma, Kırka), Arjantin ve Rusya’da yer alır.
+ 
+ ·Tuz Gölleri ve Termal Kaynaklar: Bor, bazı tuz göllerinde
+  ve termal su kaynaklarında çözünmüş halde bulunur.
+  
+  
+  
+  
+ ·Enerji Depolama: Bor bileşikleri, gelecekte enerji 
+  depolama teknolojilerinde kullanılabilir. Özellikle bor 
+  hidrürler, hidrojen depolama alanında araştırılmaktadır.
+ 
+ ·Nükleer Füzyon: Bor izotopları, nükleer füzyon 
+  reaktörlerinde potansiyel olarak yakıt maddesi olarak 
+  değerlendirilmektedir. Bor-11 izotopunun nükleer füzyonda 
+  nötronsuz reaksiyon oluşturabileceği düşünülmektedir.
+ 
+ ·Yeni Malzemeler: Bor nanoteknoloji alanında gelecekte 
+  büyük bir potansiyele sahiptir. Bor nitrür nanotüpler, 
+  çelikten daha güçlü malzemeler üretmek için araştırılmaktadır.
+ 
+ ·Optoelektronik: Bor bileşikleri, optoelektronik cihazlar 
+  ve güneş enerjisi sistemlerinde kullanılarak enerji 
+  verimliliğini artırabilir.
+  
+  
+  
+  
+ ·Toksisite: Yüksek konsantrasyonlarda bor ve bor bileşikleri,
+  toksik olabilir. Aşırı bor alımı, mide bulantısı, kusma ve 
+  ishal gibi belirtilere yol açabilir.
+ 
+ ·Çevresel Tehlikeler: Borun doğal olarak bulunduğu alanlarda 
+  aşırı çıkarma ve madencilik faaliyetleri çevresel bozulmaya 
+  yol açabilir. Bor içeren su kaynakları yüksek konsantrasyonlarda 
+  bitkiler ve su canlıları için zararlı olabilir.
+ 
+ ·Solunum Riski: Bor tozlarına uzun süre maruz kalma, solunum 
+  problemlerine ve akciğer hasarına yol açabilir. Özellikle 
+  borik asit ve bor oksit üretimi sırasında bu tehlikeler 
+  ortaya çıkabilir.
+  
+  
+  NOT:Bor, çok yönlü bir element olup, hem yüksek sertliği 
+  hem de kimyasal tepkime özellikleri nedeniyle endüstride 
+  geniş bir kullanım alanına sahiptir. Enerji depolama, 
+  cam üretimi, nükleer reaktör güvenliği ve ileri teknoloji 
+  ürünlerinde borun kullanımının gelecekte daha da yaygınlaşacağı
+  öngörülmektedir. Aynı zamanda, bitkiler için hayati önemde 
+  bir mikro elementtir. Bor madenciliği ve kullanımı dikkatli 
+  yönetilmelidir, çünkü elementin toksik etkileri ve çevresel 
+  tehlikeleri de bulunmaktadır.

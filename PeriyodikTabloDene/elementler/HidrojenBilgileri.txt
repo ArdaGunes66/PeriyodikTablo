@@ -1,0 +1,153 @@
+ ·Sembol: H
+
+ ·Atom Numarası: 1
+
+ ·Atom Ağırlığı: 1.008 (en yaygın izotop için)
+
+ ·Periyot: 1
+
+ ·Grup: Hidrojen, periyodik tablonun 1A grubunda (alkali metaller) 
+  yer almasına rağmen kimyasal özellikleri bu metallerden oldukça 
+  farklıdır. Kendi başına bir grupta değerlendirilebilir.
+
+ ·Elektron Dizilimi: 1s¹
+
+ ·İyon Yükü: Genellikle +1 (proton), ancak -1 (hidrid iyonu) da olabilir.
+ 
+ 
+ 
+
+ 1.Protium (¹H):
+ 
+ ·En yaygın izotop, çekirdeğinde sadece bir proton bulunur.
+ 
+ ·Doğal hidrojenin yaklaşık %99.98'ini oluşturur.
+
+ 2.Döteryum (²H veya D):
+
+ ·Bir proton ve bir nötron içerir.
+ 
+ ·Ağırlıkça daha ağırdır ve ağır suyu (D₂O) oluşturur.
+
+ 3.Trityum (³H veya T):
+
+ ·Radyoaktif bir izotop olup, bir proton ve iki nötron içerir.
+
+ ·Doğada nadir bulunur ve radyoaktif bozunma yoluyla 
+  helyuma dönüşür.
+  
+  
+  
+  
+ ·Durum: Oda sıcaklığında renksiz, kokusuz ve tatsız bir gazdır.
+ 
+ ·Yoğunluk: 0.08988 g/L (standart koşullarda)
+ 
+ ·Kaynama Noktası: -252.87°C
+ 
+ ·Erime Noktası: -259.16°C
+
+ ·Faz Durumu: Standart şartlarda gazdır, ancak sıvı hidrojen 
+  oldukça düşük sıcaklıklarda elde edilebilir.
+ 
+ ·Çözünürlük: Suda az çözünür.
+  
+ ·Molekül Yapısı: Hidrojen gazı (H₂) iki atomlu molekül 
+  halinde bulunur.
+  
+  
+  
+  
+ ·Valans Elektronu: Hidrojenin sadece bir elektronunun olması, 
+  onu kimyasal olarak oldukça reaktif yapar.
+ 
+ ·Yükseltgenme Durumları: Genellikle +1 (örneğin su H₂O) ancak 
+  -1 (örneğin sodyum hidrür NaH) durumunda da bulunabilir.
+
+ ·Bağ Yapısı: Kovalent bağlar oluşturur.
+ 
+ ·Yanıcıdır: Hidrojen gazı çok yanıcıdır ve oksijenle birleştiğinde
+  suyu oluşturur (2H₂ + O₂ → 2H₂O). Bu reaksiyon oldukça
+  ekzotermiktir.
+  
+  
+  
+  
+ ·Yaşam İçin Temel: Hidrojen, suyun ve birçok biyomolekülün 
+  (proteinler, karbonhidratlar, lipidler, DNA) temel bileşenlerinden 
+  biridir.
+
+ ·Enerji Taşıyıcısı: Hücrelerin enerji metabolizmasında önemli rol 
+  oynayan ATP sentezinde yer alır.
+
+ ·Asit-Baz Dengesi: Hidrojen iyonları (H⁺), organizmaların pH 
+  dengesini kontrol eder.
+  
+  
+  
+  
+ ·Petrokimya: Hidrojen, petrol rafinerilerinde hidrokraking 
+  süreçlerinde ağır hidrokarbonları daha hafif ürünlere ayırmak 
+  için kullanılır.
+ 
+ ·Amonyak Üretimi: Haber-Bosch süreci ile amonyak (NH₃) sentezi
+  için büyük miktarda hidrojen kullanılır. Amonyak, tarımda 
+  gübre üretiminde temel hammaddedir.
+ 
+ ·Yakıt: Hidrojen, yakıt hücrelerinde kullanılarak temiz enerji 
+  üretir. Yanma sonucunda sadece su ortaya çıkar, bu nedenle çevre 
+  dostu bir enerji kaynağıdır.
+ 
+ ·Metal İşleme: Metallerin üretiminde ve işlenmesinde, hidrojen 
+  indirgen bir gaz olarak kullanılır.
+ 
+ ·Roket Yakıtı: Sıvı hidrojen, roket yakıtı olarak kullanılır çünkü 
+  oldukça hafif ve enerji yoğundur.
+ 
+ ·Gıda Endüstrisi: Hidrojen, bitkisel yağları katı yağlara dönüştürmek 
+  için margarin üretiminde kullanılır (hidrojenasyon işlemi).
+  
+  
+  
+  
+ ·Keşfeden: Henry Cavendish (1766)
+ 
+ ·Cavendish, hidrojenin yanıcı bir gaz olduğunu keşfetti ve su 
+  oluşturmak için oksijenle birleştiğini gözlemledi. Lavoisier, 
+  bu gazın suyun bir bileşeni olduğunu ortaya koydu ve ona 
+  "hidrojen" (Yunanca "su oluşturan" anlamına gelir) adını verdi.
+  
+  
+  
+  
+ ·Evrendeki En Bol Element: Hidrojen, evrenin yaklaşık %75'ini 
+  oluşturur. Yıldızların yakıtı olarak görev yapar ve nükleer 
+  füzyonla helyuma dönüşür.
+  
+ ·Dünya Üzerinde: Hidrojen gazı doğada saf halde nadir bulunur. 
+  Genellikle su (H₂O) ve organik bileşiklerin (hidrokarbonlar) bir 
+  parçasıdır.
+  
+  
+  
+  
+ ·Hidrojen Ekonomisi: Hidrojenin, fosil yakıtların yerini alarak 
+  temiz ve sürdürülebilir bir enerji kaynağı olması hedeflenmektedir.
+  Hidrojenle çalışan araçlar ve enerji santralleri bu gelecekte önemli
+  bir yer tutabilir.
+  
+  
+  
+  
+ ·Yanıcılığı: Hidrojen gazı son derece yanıcıdır ve hava ile 
+  karıştığında patlayıcı bir karışım oluşturabilir. 
+ 
+ ·Sağlık Riski: Yüksek konsantrasyonlarda, patlayıcı riskler dışında 
+  solunum yolu tahrişine neden olmaz ancak havasız kalma 
+  (boğulma) riski yaratabilir.
+  
+  
+  NOT:Hidrojen, evrenin yapı taşı olan elementtir. Evrende en yaygın 
+  element olması ve gelecekte enerji kaynakları arasında potansiyel 
+  bir devrim yaratma kapasitesine sahip olması, hidrojenin 
+  önemini artırır.
